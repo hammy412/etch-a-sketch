@@ -6,8 +6,8 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
-    width: 60vh;
-    height: 60vh;
+    width: 75vh;
+    height: 75vh;
     border: 2px solid black;
     margin: auto;
 
@@ -24,12 +24,10 @@ body {
     flex: 1;
 }
 
-.hovered {
-    background-color: black;
-}
 
 .top {
     display: flex;
     justify-content: center;
+    gap: 20px;
     margin-bottom: 20px;
 }
